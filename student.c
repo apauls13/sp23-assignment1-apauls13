@@ -43,7 +43,6 @@ void rotate(int *a, int *b, int *c)
 
 void sort(int array[], int length)
 {
-  int *arr = array;
   int i;
   int j;
 
